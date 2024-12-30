@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Revit_API_CSharp</Text>
+    <Description>Some description for Revit_API_CSharp</Description>
+    <Assembly>Revit_API_CSharp.dll</Assembly>
+    <FullClassName>Revit_API_CSharp.Command</FullClassName>
+    <ClientId>e40ebee6-703d-4bbc-b9ef-818a1aa11847</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Revit_API_CSharp</Name>
+    <Assembly>Revit_API_CSharp.dll</Assembly>
+    <FullClassName>Revit_API_CSharp.App</FullClassName>
+    <ClientId>1be3d860-9e96-4868-8ea0-d60150d5e640</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
