@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NX_API_CSharp/obj/Debug
+/NX_API_CSharp/bin/Debug
+/NX_API_CSharp/.vs
