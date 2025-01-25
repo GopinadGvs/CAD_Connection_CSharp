@@ -43,3 +43,11 @@
 [CATIA CAA V5 Encyclopedia](http://catiadoc.free.fr/online/CAAScdBase/CAAScdAutomationSiteMap.htm)<br/>
 [CATIA Customization Community](http://catiadoc.free.fr/online/CAAScdBase/CAAScdAutomationSiteMap.htm)<br/>
 [CATIA Customization Forum](https://www.3dcadforums.com/forums/catia-forum.10/page-2)<br/>
+
+**SolidEdge**<br/>
+[SolidEdge API Online Help](https://support.sw.siemens.com/en-US/)<br/>
+[SolidEdge API PDF](https://www.plm.automation.siemens.com/zh_cn/Images/Solid_Edge_API_tcm78-125829.pdf)<br/>
+[SolidEdge Getting Started](https://community.sw.siemens.com/s/question/0D54O000061xstTSAQ/solid-edge-api)<br/>
+[SolidEdge Customization Community](https://community.sw.siemens.com/s/topic/0TO4O000000Mij0WAC/solid-edge-developer)<br/>
+[SolidEdge Programming Tutorials](https://community.sw.siemens.com/s/question/0D54O000061xrvTSAQ/solid-edge-programming-tutorials-part-1)<br/>
+[SolidEdge GitHub](https://github.com/SolidEdgeCommunity/SolidEdge.Community)<br/>
