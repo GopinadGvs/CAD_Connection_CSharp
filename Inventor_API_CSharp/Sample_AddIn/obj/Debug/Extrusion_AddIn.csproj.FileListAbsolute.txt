@@ -1,0 +1,30 @@
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion_AddIn\Extrusion_Addin.dll.config
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion_AddIn\Extrusion_Addin.dll
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion_AddIn\Extrusion_Addin.pdb
+E:\CAD-TEAM\Mayur\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.AssemblyReference.cache
+E:\CAD-TEAM\Mayur\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.ResolveComReference.cache
+E:\CAD-TEAM\Mayur\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.CoreCompileInputs.cache
+E:\CAD-TEAM\Mayur\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_Addin.dll
+E:\CAD-TEAM\Mayur\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_Addin.pdb
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion_AddIn\Autodesk.Extrusion_AddIn.Inventor.addin
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Autodesk.Extrusion_AddIn.Inventor.addin
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.dll.config
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.dll
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.pdb
+E:\CAD-TEAM\Mayur\Data\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.AssemblyReference.cache
+E:\CAD-TEAM\Mayur\Data\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.ResolveComReference.cache
+E:\CAD-TEAM\Mayur\Data\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_AddIn.csproj.CoreCompileInputs.cache
+E:\CAD-TEAM\Mayur\Data\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_Addin.dll
+E:\CAD-TEAM\Mayur\Data\Add in practice M\Extrusion_AddIn\obj\Debug\Extrusion_Addin.pdb
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.AssemblyReference.cache
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.ResolveComReference.cache
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.CoreCompileInputs.cache
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.CopyComplete
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_Addin.dll
+E:\CAD-TEAM\Mayur\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_Addin.pdb
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.AssemblyReference.cache
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.ResolveComReference.cache
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.CoreCompileInputs.cache
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_Addin.dll
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_Addin.pdb
+D:\Training\Cube Plug-In (2)\Cube Plug-In\Cube_AddIn\obj\Debug\Extrusion_AddIn.csproj.CopyComplete

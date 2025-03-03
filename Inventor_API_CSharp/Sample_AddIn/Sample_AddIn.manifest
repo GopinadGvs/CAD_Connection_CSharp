@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity name="CSharp_AddIn" version="1.0.0.0"></assemblyIdentity>
+  <clrClass clsid="{F688FB0D-90E8-44A2-B999-73F9FE914D4D}" progid="Extrusion_AddIn.StandardAddInServer" threadingModel="Both" name="My_CSharp_AddIn.My_CSharp_AddIn.StandardAddInServer" runtimeVersion=""></clrClass>
+  <file name="Extrusion_AddIn.dll" hashalg="SHA1"></file>
+</assembly>

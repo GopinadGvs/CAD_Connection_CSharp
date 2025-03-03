@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor >= 2015 (Version 19.0)-->
+  <ClassId>{F688FB0D-90E8-44A2-B999-73F9FE914D4D}</ClassId>
+  <ClientId>{F688FB0D-90E8-44A2-B999-73F9FE914D4D}</ClientId>
+  <DisplayName>Extrusion_AddIn</DisplayName>
+  <Description>Extrusion_AddIn</Description>
+  <Assembly>Extrusion_AddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>23..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

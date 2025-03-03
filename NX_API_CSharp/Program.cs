@@ -2,6 +2,8 @@
 using System.Runtime.InteropServices;
 using NXOpen;
 using NXOpenUI;
+using NXOpen.PDM;
+using NXOpen.CAE;
 
 namespace NXAPI
 {
@@ -10,7 +12,7 @@ namespace NXAPI
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]        
+        [STAThread]
 
         public static void Main()
         {
@@ -18,10 +20,15 @@ namespace NXAPI
             Session theSession = Session.GetSession();
             UI uiSession = UI.GetUI();
 
+            PdmSession pdmSession = theSession.PdmSession;
+            //pdmSession.GetCheckedoutStatusOfAllObjectsInSession()
+
+            //PdmPart pdmPart = pdmSession.getpdmpar
+
             Part workPart = theSession.Parts.Work;
             Part displayPart = theSession.Parts.Display;
 
-            uiSession.NXMessageBox.Show("MyTitle", NXMessageBox.DialogType.Information, "Welcome to NX");            
+            uiSession.NXMessageBox.Show("MyTitle", NXMessageBox.DialogType.Information, "Welcome to NX");
         }
 
         public static int GetUnloadOption(string dummy) { return (int)NXOpen.Session.LibraryUnloadOption.Immediately; }

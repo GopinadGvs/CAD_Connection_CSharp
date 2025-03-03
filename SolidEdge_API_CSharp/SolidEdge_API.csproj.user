@@ -3,4 +3,8 @@
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Project</StartAction>
+    <StartProgram>D:\Program Files\Siemens\Solid Edge 2023\Program\Edge.exe</StartProgram>
+  </PropertyGroup>
 </Project>

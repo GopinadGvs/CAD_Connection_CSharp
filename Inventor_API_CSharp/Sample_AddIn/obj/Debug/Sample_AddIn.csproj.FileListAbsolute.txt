@@ -1,0 +1,16 @@
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Autodesk.Extrusion_AddIn.Inventor.addin
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.dll.config
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.dll
+C:\ProgramData\Autodesk\Inventor Addins\Extrusion2\Extrusion_Addin.pdb
+D:\Add-In\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.ResolveComReference.cache
+D:\Add-In\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.CoreCompileInputs.cache
+D:\Add-In\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.CopyComplete
+D:\Add-In\Sample_AddIn\obj\Debug\Extrusion_Addin.dll
+D:\Add-In\Sample_AddIn\obj\Debug\Extrusion_Addin.pdb
+D:\Add-In\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.AssemblyReference.cache
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.AssemblyReference.cache
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.ResolveComReference.cache
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Sample_AddIn.csproj.CoreCompileInputs.cache
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Sample_A.3AA9328C.Up2Date
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Extrusion_Addin.dll
+E:\Personal\Inventor\Cube Plug-In_Mayur\Sample_AddIn\obj\Debug\Extrusion_Addin.pdb
