@@ -20,6 +20,9 @@ namespace Revit_API_CSharp
           ref string message,
           ElementSet elements)
         {
+            //Notes API Units In Revit = As per Document units
+
+
             UIApplication uiapp = commandData.Application;
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Application app = uiapp.Application;

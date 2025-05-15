@@ -13,6 +13,8 @@ namespace SolidWorksAPI
 
         public static void Main()
         {
+            //Notes API Units In SolidWorks = meters
+
             //Get Active Solidworks Session (2022)
             SldWorks sldWorkdApp = Marshal.GetActiveObject("SldWorks.Application.30") as SldWorks;
 
