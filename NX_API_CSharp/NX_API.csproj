@@ -77,5 +77,8 @@
     </Reference>
     <Reference Include="System" />
   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NXSigningResource.res" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
